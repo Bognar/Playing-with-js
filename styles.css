@@ -1,0 +1,16 @@
+/* just some random testing */
+#loop {
+    width:200px;
+    position: relative;
+    margin: 0 auto;
+    padding:5px;
+
+}
+#kokica {
+    width:200px;
+    position: relative;
+    margin: 0 auto;
+    height: auto;
+    display: block;
+    padding-top:20px;
+}
