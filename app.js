@@ -45,3 +45,8 @@ function showmefun(e){
 function displayNames(){
     console.log(names);
 }
+// just some random testing for concat
+
+var numbers = [1,2,3,4,5],
+    numbers2 = numbers.reverse();
+console.log(numbers.concat(numbers2));
